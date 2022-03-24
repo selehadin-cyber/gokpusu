@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Activity</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/activity/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Mar 2022 19:16:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,24 +18,24 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2022/03/cropped-GOKPUSU_LOGO-removebg-preview-32x32.png</url>
+	<url>/wp-content/uploads/2022/03/cropped-GOKPUSU_LOGO-removebg-preview-32x32.png</url>
 	<title>Activity</title>
-	<link>./../../../index.html</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>DOSTEK Koleji</title>
-		<link>./../../../dostek-koleji/index.html</link>
-					<comments>./../../../dostek-koleji/index.html#respond</comments>
+		<link>/dostek-koleji/</link>
+					<comments>/dostek-koleji/#respond</comments>
 		
 		<dc:creator><![CDATA[Gokpusu]]></dc:creator>
 		<pubDate>Fri, 04 Mar 2022 19:13:10 +0000</pubDate>
 				<category><![CDATA[Seminar]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=203</guid>
+		<guid isPermaLink="false">/?p=203</guid>
 
 					<description><![CDATA[&#8220;Teknoloji ve Gelişim Seminerleri&#8221; kapsamında Gökpusu Takımı olarak, DOSTEK Koleji&#8217; nde genç arkadaşlarımızla buluştuk. Dünden bugüne takımımızın çalışmalarına değindik ve meraklı arkadaşlarımızın sorularını cevapladık. DOSTEK Koleji&#8217;ne nazik davetlerinden ötürü teşekkür ederiz.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="203" class="elementor elementor-203" data-elementor-settings="[]">
@@ -57,7 +57,7 @@
 								<div class="elementor-element elementor-element-37e1999 elementor-widget elementor-widget-image" data-id="37e1999" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="1024" src="./../../../wp-content/uploads/2022/03/sahne-1024x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/03/sahne-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2022/03/sahne-300x300.jpg 300w, ./../../../wp-content/uploads/2022/03/sahne-150x150.jpg 150w, ./../../../wp-content/uploads/2022/03/sahne-768x768.jpg 768w, ./../../../wp-content/uploads/2022/03/sahne.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="1024" src="/wp-content/uploads/2022/03/sahne-1024x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/sahne-1024x1024.jpg 1024w, /wp-content/uploads/2022/03/sahne-300x300.jpg 300w, /wp-content/uploads/2022/03/sahne-150x150.jpg 150w, /wp-content/uploads/2022/03/sahne-768x768.jpg 768w, /wp-content/uploads/2022/03/sahne.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -65,7 +65,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6ae2a93 elementor-widget elementor-widget-image" data-id="6ae2a93" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="769" height="1024" src="./../../../wp-content/uploads/2022/03/biae-ulasin-769x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/03/biae-ulasin-769x1024.jpg 769w, ./../../../wp-content/uploads/2022/03/biae-ulasin-225x300.jpg 225w, ./../../../wp-content/uploads/2022/03/biae-ulasin-768x1023.jpg 768w, ./../../../wp-content/uploads/2022/03/biae-ulasin-1153x1536.jpg 1153w, ./../../../wp-content/uploads/2022/03/biae-ulasin-1538x2048.jpg 1538w, ./../../../wp-content/uploads/2022/03/biae-ulasin-scaled.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" />															</div>
+															<img width="769" height="1024" src="/wp-content/uploads/2022/03/biae-ulasin-769x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/biae-ulasin-769x1024.jpg 769w, /wp-content/uploads/2022/03/biae-ulasin-225x300.jpg 225w, /wp-content/uploads/2022/03/biae-ulasin-768x1023.jpg 768w, /wp-content/uploads/2022/03/biae-ulasin-1153x1536.jpg 1153w, /wp-content/uploads/2022/03/biae-ulasin-1538x2048.jpg 1538w, /wp-content/uploads/2022/03/biae-ulasin-scaled.jpg 1922w" sizes="(max-width: 769px) 100vw, 769px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -79,7 +79,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../../../dostek-koleji/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/dostek-koleji/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,21 +9,21 @@
 
 <channel>
 	<title>Teknofest</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../../index.html</link>
+	<atom:link href="/category/activity/teknofest/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 04 Mar 2022 19:45:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Mar 2022 11:17:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>./../../../../wp-content/uploads/2022/03/cropped-GOKPUSU_LOGO-removebg-preview-32x32.png</url>
+	<url>/wp-content/uploads/2022/03/cropped-GOKPUSU_LOGO-removebg-preview-32x32.png</url>
 	<title>Teknofest</title>
-	<link>./../../../../index.html</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
